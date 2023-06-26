@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Alfin Tommy Nahuway",
+    "email": "alfintomy08@gmail.com",
+    "password": "1234",
+    "gambar": "https://avatars.githubusercontent.com/u/133556131?v=4"
+  },
+  {
+    "id": 2,
+    "nama": "M Zulzidan",
+    "email": "zulzidan@gmail.com",
+    "password": "1234",
+    "gambar": "https://avatars.githubusercontent.com/u/55260315?v=4"
+  },
+  {
+    "id": 3,
+    "nama": "Hendri WIjaya",
+    "email": "hendri@gmail.com",
+    "password": "1234",
+    "gambar": "https://media.licdn.com/dms/image/D5603AQGD-WMn_6wiqw/profile-displayphoto-shrink_100_100/0/1670916354655?e=1693440000&v=beta&t=ehsRaRutHrz2Ze0gIr-2HEvFibFTc8Q33JkbZwxQ8iY"
+  }
+]
